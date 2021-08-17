@@ -27,7 +27,7 @@ the plugin will let you know that your position is second on the priority list.
 
 You can export the list via CSV or XML.
 
-![](https://i.imgur.com/5XbowC1.gif)
+![](images/csv.gif)
 ***
 
 
