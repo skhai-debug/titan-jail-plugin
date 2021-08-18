@@ -40,8 +40,10 @@ of getting a Titan Gaol, within 1 second.
 Put these lines in a macro and change the names below to members within the priority list. 
 then run the macro. 
 
-`/e 15:4000596E:Garuda:2B6C:Rock Throw:106D93DF:A'oshane Taru`\
-`/e 15:4000596F:Garuda:2B6C:Rock Throw:1070B706:Akela Freya`\
-`/e 15:40005974:Titan:2B6B:Rock Throw:106966DD:Rai Lionheart`
+```
+/e 15:4000596E:Garuda:2B6C:Rock Throw:106D93DF:A'oshane Taru
+/e 15:4000596F:Garuda:2B6C:Rock Throw:1070B706:Akela Freya
+/e 15:40005974:Titan:2B6B:Rock Throw:106966DD:Rai Lionheart
+```
 
 Good Luck! :)
